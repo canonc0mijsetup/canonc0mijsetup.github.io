@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Canon.com/ijsetup 
 
-You can use the [editor on GitHub](https://github.com/canonc0mijsetup/canonc0mijsetup.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![Canon.com/ijsetup](get-start-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Canon Printers are the best wireless printers that can be easily connected with your ac device. Install the driver software on your mac using the simple steps from [canon.com/ijsetup](https://canonc0mijsetup.github.io/) and connect it for getting started with it. Follow the steps for connecting wireless canon ij setup with your mac device from its official website.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## How to Download Canon Printer Setup ?
 
-# Header 1
-## Header 2
-### Header 3
+_The following steps will help you to download canon printer software easily. Go through with them stepwise:_
 
-- Bulleted
-- List
+1. Open your web browser and go to **“[canon.com/ijsetup](https://canonc0mijsetup.github.io/)”**. 
+2. Choose your preferred language and select your country.
+3. Login to your account by providing the required login details or create an account if you are a new user.
+4. By doing so, it will take you to the Product selection window. 
+5. Enter the model number of your printer and then, click **“Go”**. 
+6. Select the device you are using and you will then see a download button.
+7. Click the download button to start the downloading process.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Installing and setting up Canon Ij Printer on Mac
 
-[Link](url) and ![Image](src)
-```
+_Install and setup your canon printer driver on your mac with given below steps:_
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+1. Firstly, download and setup driver through **[canon.com/ijsetup](https://canonc0mijsetup.github.io/)** and go for the next step.
+2. Follow the steps given above in the first section of this write up to connect Canon printers to WiFi networks.
+3. Next, open the **‘Apple’** menu and click on **‘System Preferences’**.
+4. Now click on the printer shaped icon known as **“Printers and scanners”** from the System preferences window.
+5. Click on the **“+”** sign present near the bottom left corner of the screen after which a pop window will appear.
+6. You will be able to see your printer’s name in the left-hand pane if it is already connected over the network.
+7. Click on the name which will then prompt the printer to begin the setup process. 
+8. Once the process completes you will see your printer’s name on the pane on the left side of the window.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/canonc0mijsetup/canonc0mijsetup.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Wireless Installation for MAC device 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Open and start the printer and find the WPS button on the Wi-Fi router.
+2. From the **[canon.com/ijsetup](https://canonc0mijsetup.github.io/)** MAC, download printer drivers on Mac.
+3. Open the file and follow further steps.
+4. Press **WPS** button WIFI and click the OK button on the canon printer.
+5. It will automatically connect using the network.
+6. On Mac, click on **ADD PRINTER**.
+7. Now, browse or locate the printer.
+8. Start the installation and complete it.
+9. Check the print of files to confirm. 
